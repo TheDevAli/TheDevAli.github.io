@@ -158,13 +158,13 @@ p {
   font-size: 20px;
 }
 
-#key-skills {
+#skill-set {
   width: 100%;
   height: auto;
   background: #f7f7f7;
 }
 
-#key-skills .div-key-skills {
+#skill-set .div-skill-set {
   margin-top: 75px;
   padding: 2em;
   border: 10px solid #404752;
@@ -240,8 +240,8 @@ p {
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-  /* Key Skills */
-  #key-skills .div-key-skills {
+  /* skill set */
+  #skill-set .div-skill-set {
     margin-top: 0;
   }
 
@@ -255,8 +255,8 @@ p {
  */
 @media (max-width: 767px) {
 
-  /* Key Skills */
-  #key-skills .div-key-skills {
+  /* skill set */
+  #skill-set .div-skill-set {
     margin-top: 0px;
   }
 
@@ -270,8 +270,8 @@ p {
  */
 @media (max-width: 600px) {
 
-  /* Key Skills */
-  #key-skills .div-key-skills {
+  /* skill set */
+  #skill-set .div-skill-set {
     margin-top: 0;
   }
 
@@ -285,8 +285,8 @@ p {
  */
 @media (max-width: 480px) {
 
-  /* Key skills */
-  #key-skills .div-key-skills {
+  /* skill set */
+  #skill-set .div-skill-set {
     margin-top: 0;
   }
 
@@ -300,8 +300,8 @@ p {
  */
 @media (max-width: 320px) {
 
-  /* Key Skills */
-  #key-skills .div-key-skills {
+  /* skill set */
+  #skill-set .div-skill-set {
     margin: 0;
   }
 
