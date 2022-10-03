@@ -298,6 +298,10 @@ p {
   float: left!important
 }
 
+.php-icon {
+  margin-top: 1.5px;
+}
+
 #portfolio .portfolio-item .portfolio-info {
   opacity: 0;
   position: absolute;
