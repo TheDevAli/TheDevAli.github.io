@@ -302,6 +302,11 @@ p {
   margin-top: 1.5px;
 }
 
+#coming-soon {
+  height: 48px;
+  width: 48px;
+}
+
 #portfolio .portfolio-item .portfolio-info {
   opacity: 0;
   position: absolute;
