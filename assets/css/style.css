@@ -248,6 +248,14 @@ p {
   .p-heading {
     font-size: 20px;
   }
+
+  .row > .col-lg-2 {
+    width: 50%;
+  }
+
+  .row > .col-lg-4 {
+    width: 100%;
+  }
 }
 
 /** Width between 767px to 0
@@ -262,6 +270,14 @@ p {
 
   .p-heading {
     font-size: 20px;
+  }
+
+  .row > .col-lg-2 {
+    width: 50%;
+  }
+
+  .row > .col-lg-4 {
+    width: 100%;
   }
 }
 
@@ -278,6 +294,14 @@ p {
   .p-heading {
     font-size: 20px;
   }
+
+  .row > .col-lg-2 {
+    width: 50%;
+  }
+
+  .row > .col-lg-4 {
+    width: 100%;
+  }
 }
 
 /** Width between 480px to 0
@@ -292,6 +316,14 @@ p {
 
   .p-heading {
     font-size: 20px;
+  }
+
+  .row > .col-lg-2 {
+    width: 50%;
+  }
+
+  .row > .col-lg-4 {
+    width: 100%;
   }
 }
 
